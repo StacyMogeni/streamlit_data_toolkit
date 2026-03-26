@@ -218,6 +218,7 @@ After uploading, the app provides summary statistics and shows the shape of the 
 Users can select a specific column, like Industry, to generate a bar chart. This demonstrates Streamlit’s interactive plotting capabilities and allows users to explore the data visually.
 
 **What this advanced app does:**
+
 This Streamlit app illustrates how to create a fully interactive, data-driven application with Python. From a simple home page introduction to dynamic data exploration and visualization, the app highlights the key strengths of Streamlit: easy-to-use interface, rapid deployment, and the ability to create multi-page applications with user interaction. By combining file uploads, data previews, statistical summaries, and visualizations, this project provides a practical example of how beginner-friendly tools can be leveraged for real-world data analysis.
 
 ---
@@ -228,6 +229,6 @@ This Streamlit app illustrates how to create a fully interactive, data-driven ap
 - **Python Official Documentation** – https://docs.python.org/3/  
 - **Pandas Documentation** - https://pandas.pydata.org
 - **AI Tools Used:**  
-  - ChatGPT (OpenAI) – assisted with learning Streamlit concepts and code explanations  
-  - Claude (Anthropic) – provided guidance on project structure and workflow  
-  - Gemini Pro (Google DeepMind) – helped generate code examples and troubleshooting tips  
+  - ChatGPT – assisted with learning Streamlit concepts and code explanations  
+  - Claude – provided guidance on project structure and workflow  
+  - Gemini Pro – helped generate code examples and troubleshooting tips  
