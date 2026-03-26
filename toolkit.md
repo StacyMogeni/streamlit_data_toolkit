@@ -107,19 +107,19 @@ This Streamlit app is a simple interactive demo that displays a title and a welc
 ### Prompt 2
 **Prompt Used:** "Give me a simple Streamlit hello world example."
 
-**AI Response Summary:** Generated a basic app using st.title() and st.write().
+**AI Response Summary:** Generated a basic app using `st.title()` and `st.write()`.
 
 **Evaluation:** Helped me create and run my first working app.
 ### Prompt 3
 **Prompt Used:** "How do I upload a CSV file in Streamlit and display it?"
 
-**AI Response Summary:** Introduced st.file_uploader() and pandas for reading files.
+**AI Response Summary:** Introduced `st.file_uploader()` and pandas for reading files.
 
 **Evaluation:** Very useful and directly applicable to my project.
 ### Prompt 4
 **Prompt Used:** "How do I show summary statistics of a dataset in Streamlit?"
 
-**AI Response Summary:** Suggested using df.describe().
+**AI Response Summary:** Suggested using `df.describe()`.
 
 **Evaluation:** Helpful in adding analytical functionality to the app.
 ### Prompt 5
@@ -131,10 +131,8 @@ This Streamlit app is a simple interactive demo that displays a title and a welc
 
 ## 6. Common Issues & Fixes
 ### Issue 1: Streamlit not installed
-**Error:** 
-```bash
-ModuleNotFoundError: No module named 'streamlit'
-```
+**Error:** `ModuleNotFoundError: No module named 'streamlit'`
+
 **Explanation:** This happens when Streamlit is not installed in your current Python environment.
 
 **Fix:** Install Streamlit using:
